@@ -1,0 +1,21 @@
+.ml-auto {
+  margin-left: auto !important;
+}
+
+.mr-auto {
+  margin-right: auto !important;
+}
+
+.mt-auto {
+  margin-top: auto !important;
+}
+
+.my-auto {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.mx-auto {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
